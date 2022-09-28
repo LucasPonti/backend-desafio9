@@ -1,0 +1,1 @@
+[{"title":"Mesa","price":120,"thumbnail":"https://es.wikipedia.org/wiki/Escuadra"},{"title":"Silla","price":150,"thumbnail":"https://es.wikipedia.org/wiki/Escuadra"}]
